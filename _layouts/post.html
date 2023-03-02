@@ -5,7 +5,7 @@ layout: default
 <article>
   {% include meta.html post=page %}
   {{ content }}
-  <div class="more"><a href="javascript:window.back();">zur&uuml;ck</a></div>
+  <div class="more"><a href="javascript:history.back()">zur&uuml;ck</a></div>
   <noscript>Bei deaktiviertem JavaScript bitte den Zur&uuml;ck-Button des Browsers verwenden.</noscript>
   {% if page.comments != false and site.comments.isso or site.comments.disqus %}
     <hr>
