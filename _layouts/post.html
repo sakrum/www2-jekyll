@@ -5,6 +5,7 @@ layout: default
 <article>
   {% include meta.html post=page %}
   {{ content }}
+  <div class="more"><a href="javascript:window.back()">zur&uuml;ck</a></div>
   {% if page.comments != false and site.comments.isso or site.comments.disqus %}
     <hr>
     {% if site.comments.isso_domain %}<div id="isso-thread"></div>{% endif %}
