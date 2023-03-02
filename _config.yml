@@ -3,7 +3,7 @@ author: "sakrum"
 description: "Das Evangelium des Tages von Evangelizo" # "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: pretty	# /:title/
 lang: "de-DE"
-excerpt_separator: "\n"
+excerpt_separator: <!--more--> #"\n"
 date_format: "%d.%m.%Y"
 
 # Layout
@@ -12,6 +12,9 @@ show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
+
+paginate: 10
+paginate_path: "/blog/page:num/"
 
 # Menu
 
@@ -36,3 +39,4 @@ comments:
 
 plugins:
  - jekyll-feed
+ - jekyll-paginate
