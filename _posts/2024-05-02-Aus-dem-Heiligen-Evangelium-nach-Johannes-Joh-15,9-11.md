@@ -1,0 +1,16 @@
+---
+title: "Aus dem Heiligen Evangelium nach Johannes - Joh 15,9-11"
+description: "In jener Zeit sprach Jesus zu seinen Jüngern: Wie mich der Vater geliebt hat, so habe auch ich euch geliebt. Bleibt in meiner Liebe! Wenn ihr meine Gebote haltet, werdet ihr in meiner Liebe bleiben, so wie ich die Gebote meines Vaters gehalten habe und in seiner Liebe bleibe. Die...."
+images:
+- "/symbols/evangelist_johannes.jpg"
+layout: post
+category: EVANGELIUM
+tag: EVANGELIUM
+date: 2024-05-02 08:00:00 +0100
+---
+In jener Zeit sprach Jesus zu seinen Jüngern: Wie mich der Vater geliebt hat, so habe auch ich euch geliebt. Bleibt in meiner Liebe!
+Wenn ihr meine Gebote haltet, werdet ihr in meiner Liebe bleiben, so wie ich die Gebote meines Vaters gehalten habe und in seiner Liebe bleibe.
+Dies habe ich euch gesagt, damit meine Freude in euch ist und damit eure Freude vollkommen wird.<!--more--><br>
+[Quelle: Evangelizo](https://evangeliumtagfuertag.org/DE/gospel)
+
+[Textstelle auf Bibelserver](https://www.bibleserver.com/EU/Johannes15,9-11)
