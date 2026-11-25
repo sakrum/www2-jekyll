@@ -1,0 +1,17 @@
+---
+title: "Buch der Offenbarung 15,1-4"
+description: "Ich, Johannes, sah ein anderes Zeichen am Himmel, groß und wunderbar. Ich sah sieben Engel mit sieben Plagen, den sieben letzten; denn in ihnen erreicht der Zorn Gottes sein Ende. Dann sah ich etwas, das einem gläsernen Meer glich und mit Feuer durchsetzt war. Und die Sieger über...."
+images:
+- "/symbols/offenbarung.jpg"
+layout: post
+category: LECTIO 1
+tag: LECTIO 1
+date: 2026-11-25 07:30:57 +0100
+---
+Ich, Johannes, sah ein anderes Zeichen am Himmel, groß und wunderbar. Ich sah sieben Engel mit sieben Plagen, den sieben letzten; denn in ihnen erreicht der Zorn Gottes sein Ende.
+Dann sah ich etwas, das einem gläsernen Meer glich und mit Feuer durchsetzt war. Und die Sieger über das Tier, über sein Standbild und über die Zahl seines Namens standen auf dem gläsernen Meer und trugen die Harfen Gottes.<!--more-->
+Sie sangen das Lied des Mose, des Knechtes Gottes, und das Lied des Lammes und sprachen: Groß und wunderbar sind deine Taten, Herr und Gott, du Herrscher über die ganze Schöpfung. Gerecht und zuverlässig sind deine Wege, du König der Völker.
+Wer wird dich nicht fürchten, Herr, wer wird deinen Namen nicht preisen? Denn du allein bist heilig: Alle Völker kommen und beten dich an; denn offenbar geworden sind deine gerechten Taten.<br>
+[Quelle: Evangelizo](https://evangeliumtagfuertag.org/DE/gospel)
+
+[Textstelle auf Bibelserver](https://www.bibleserver.com/EU/Offenbarung15,1-4)
